@@ -1,5 +1,5 @@
 <h3> words_text_processor </h3>
-This program indents a bad formatted file
+This program indents an incorrectly formatted file
 
 <h5>To compile: </h5>
 
