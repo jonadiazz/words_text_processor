@@ -9,7 +9,7 @@ This program indents an incorrectly formatted file
 
   `./a.out 45 file_to_process`
 
-**Note:* 45 will be the limit of characters at any one line. `file_to_process.name` can be the file provided Mason_Dixon for example.
+**Note:* 45 will be the limit of characters at any one line. `file_to_process` can be the file that you want to fix, Mason_Dixon for example.
 
 <h5>Files created:</h5>
   
