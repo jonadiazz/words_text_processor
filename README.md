@@ -3,7 +3,7 @@ This program indents a bad formatted file
 
 <h5>To compile: </h5>
 
-`file sprocessor_.c` 
+`gcc sprocessor_.c` 
 
 <h5>Usage: </h5>
 
