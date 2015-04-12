@@ -3,7 +3,7 @@ This program indents an incorrectly formatted file
 
 <h5>To compile: </h5>
 
-`gcc sprocessor_.c` 
+`gcc sprocessor_.c`
 
 <h5>Usage: </h5>
 
@@ -12,11 +12,11 @@ This program indents an incorrectly formatted file
 **Note:* 45 will be the limit of characters at any one line. `file_to_process` can be the file that you want to fix, Mason_Dixon for example.
 
 <h5>Files created:</h5>
-  
+
   `file_to_process.out`
-  
+
   `file_to_process.words`
   
-  
-## 
 ######:octocat:~~https://github.com/jonadiazz~~
+  
+[<img src="http://static.zerochan.net/Shiroe.%28Log.Horizon%29.full.1637297.jpg">]()
